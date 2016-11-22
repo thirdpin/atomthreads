@@ -31,7 +31,7 @@
 #define __ATOM_PORT_H
 
 
-#include "stm8s_type.h"
+#include "stm8s.h"
 
 #if defined(__IAR_SYSTEMS_ICC__)
 #include "intrinsics.h"
